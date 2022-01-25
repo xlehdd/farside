@@ -3,7 +3,6 @@
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ## Gelato Parlour
 #### This is a small game which I created. It is a parlour/cafe mix and is preparing to launch. Below is some photos.
-##### Please note, I have build all these game myself. Game which I don't own but am a developer for, or have been in team-create with will not be shown here as they are not 100% built by myself.
 
 ![Outside Image](https://user-images.githubusercontent.com/79833024/150672543-6a8938da-aa49-4b90-88d8-b89773b6513e.png)
 ![Kitchen](https://user-images.githubusercontent.com/79833024/150672601-bf3e0106-8282-4f46-b292-b078370e3795.png)
@@ -35,7 +34,7 @@
 ![Course A Begining](https://user-images.githubusercontent.com/79833024/150673120-56ca7a36-b7d6-4d1f-9b69-ff84cc21f07f.png)
 ![Pool  ](https://user-images.githubusercontent.com/79833024/150673134-17b43436-8620-460a-aa3d-c77e5002b85e.png)
 
-## I have worked on many other projects, but that has been in Team-Create. I do not wish to show my work that has been edited by others, as this is a portfolio about myself, not them. 
+## I have worked on many other projects, but not all are here.
 
 # 💥 Contact
 ### Discord - jxsh;#0001
