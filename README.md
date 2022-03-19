@@ -1,4 +1,4 @@
-# ✨ Welcome to my Portfolio.
+# Welcome to my Portfolio.
 ### Below is all of my projects and a little bit of detail about them.
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ## Gelato Parlour
