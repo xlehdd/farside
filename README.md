@@ -50,7 +50,7 @@
 ## I have worked on many other projects, but not all are here.
 
 # 💥 Contact
-### Discord - jxsh;#0001
+### Discord - joshh#8505
 
 # 🌀 Thank you for checking out my portfolio.
 
