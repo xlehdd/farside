@@ -7,7 +7,7 @@
 #### Scripting
 #### 3D Modelling
 
-### Below is all of my projects and a little bit of detail about them.
+## Below is all of my projects and a little bit of detail about them.
 
 ## Gelato Parlour
 #### This is a small game which I created. It is a parlour/cafe mix and is preparing to launch. Below is some photos.
