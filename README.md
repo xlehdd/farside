@@ -1,11 +1,7 @@
 # Welcome to my Portfolio.
 
 ### Speciality:
-#### Building (Main)
-#### Graphic Deisgn
-#### GUI Design
-#### Scripting
-#### 3D Modelling
+Building (Main), Graphic Deisgn, GUI Design, Scripting, 3D Modelling
 
 ## Below is all of my projects and a little bit of detail about them.
 
