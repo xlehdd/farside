@@ -12,6 +12,14 @@ Building (Main), Graphic Deisgn, GUI Design, Scripting, 3D Modelling
 ![Kitchen](https://user-images.githubusercontent.com/79833024/150672601-bf3e0106-8282-4f46-b292-b078370e3795.png)
 ![VIP/Paid Area](https://user-images.githubusercontent.com/79833024/150672612-91522488-266d-409c-b11c-4c841f928b7d.png)
 
+## Unnamed Military Academy
+#### Unfinished
+![image](https://user-images.githubusercontent.com/79833024/161446534-fed380a0-eb84-495a-9520-ccc0731ad65c.png)
+![image](https://user-images.githubusercontent.com/79833024/161446543-7e592a11-02a9-40a0-99c5-7fc700c83b95.png)
+![image](https://user-images.githubusercontent.com/79833024/161446556-f3ed4fc4-c0bf-4117-be45-c049f45e6445.png)
+
+
+
 ## Sandhurst Military Academy
 #### An unfinished Military game which is based in Sandhurst, United Kingdom.
 
