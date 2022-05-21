@@ -87,6 +87,12 @@ Building (Main), Graphic Deisgn, GUI Design, Scripting, 3D Modelling
 #### Made a Military Training base gate for a group.
 ![image](https://user-images.githubusercontent.com/79833024/159169998-08f2a6a6-4183-4e93-8aea-f497f408a9c9.png)
 
+## Cafe/Sushi thing
+#### idk
+![image](https://user-images.githubusercontent.com/79833024/169642655-901a6e7c-a85b-4cbd-9024-1bf3d921d3a8.png)
+![image](https://user-images.githubusercontent.com/79833024/169642664-4ac10f6d-0192-4190-a8fd-4c65a56a8fc5.png)
+
+
 # UI
 
 ## Larusso UI
